@@ -1,11 +1,15 @@
+
+![Design and Development](https://live.staticflickr.com/65535/51350239267_54560763e6_b.jpg)
+
 <h1 align="center">
     Hi
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
     I'm Deepak Dhankhar
 </h1>
-<p  align="center">A passionate full Stack developer</p>
+<p  align="center" I'm a passionate learner who's always willing to learn </p>
 
-![Design and Development](https://live.staticflickr.com/65535/51350239267_54560763e6_b.jpg)
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Deepak1095" alt="DeepakDhankhar" /> </p>
+</br>
 
 ## Skills:
  *  ⚛️ React
