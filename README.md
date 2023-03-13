@@ -3,8 +3,9 @@
 
 <p  align="center" I'm a passionate learner who's always willing to learn </p>
 
-   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Deepak Dhankhar<img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="32"/></h1>
-
+ <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Deepak Dhankhar
+<img src="https://camo.githubusercontent.com/21b63a4860ebfb71dca6e05e9898f5bb6569739761db816f05e92619d88696c6/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d44656570616b31303935267468656d653d7265616374"  />
+   </h1>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Deepak1095" alt="DeepakDhankhar" /> </p>
 </br>
 
