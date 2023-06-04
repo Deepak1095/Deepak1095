@@ -26,10 +26,10 @@
 </br>
 
  <div align="center"><h3 align="center">Backend</h3> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
-<img src="https://img.shields.io/badge/Express.js-%23323330.svg?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
-<img src="https://img.shields.io/badge/Mongoose-FB1911.svg?style=for-the-badge&logoColor=white" align="center" alt="mongoose"/>
+<img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" />
+<img width="10%" src="https://expressjs.com/images/express-facebook-share.png" alt="expressjs"/>
+<img style={width:"10%"} src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
+<img src="https://img.shields.io/badge/Mongoose-FB1911.svg?style=for-the-badge&logoColor=white" alt="mongoose"/>
 </div>
 
 <div>
