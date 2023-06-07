@@ -42,6 +42,9 @@
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak1095&theme=react" alt="Deepak Dhankhar" height="250px" width="47%" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Deepak1095&show_icons=true&theme=react" height="255px" width="47%"/>
 <div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepak1095&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Deepak" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Deepak1095&label=Profile%20views&color=0e75b6&style=flat" alt="Deepak Dhankhar" /> </p>
+
+
 
