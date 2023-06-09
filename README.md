@@ -6,7 +6,19 @@
  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Deepak Dhankhar
 <!-- <img src="https://camo.githubusercontent.com/21b63a4860ebfb71dca6e05e9898f5bb6569739761db816f05e92619d88696c6/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d44656570616b31303935267468656d653d7265616374"  /> -->
    </h1>
-   Know more about me https://Deepak1095.github.io/
+   
+<!-- - 🔭 I’m currently working on **DSA**
+ -->
+- 🌱 I’m currently learning **Full Stack Web Developer**
+
+<!-- - 👨‍💻 All of my projects are available at [erGaurav13.github.io](https://erGaurav13.github.io/) -->
+
+- 💬 Ask me about **React,MongoDb,Express,Node,Chakra-UI ,JavaScript,HTML,CSS**
+
+<!-- - 📫 How to reach me **ddhankhar999@gmail.com** -->
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1arPllevTAd65ylIDQccpJrwS0GY3n6mc/view?usp=drive_link)
+<!--    Know more about me https://Deepak1095.github.io/ -->
 <!-- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Deepak1095" alt="DeepakDhankhar" /> </p> -->
 </br>
 
