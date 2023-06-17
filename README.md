@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [portfolio](https://deepak1095.github.io/)
 
-- 💬 Ask me about **React,MongoDb,Express,Node,Chakra-UI ,JavaScript,HTML,CSS**
+- 💬 Ask me about **  React, MongoDB, Express, Node, Chakra-UI, JavaScript, HTML, CSS   **
 
 - 👨 Open for your suggestions
 
@@ -53,6 +53,3 @@
 <!-- git stats -->
 <p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Deepak1095&hide_border=true&theme=react&hide_border=true&bg_color=0D1117" height="255px" width="70%"  /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Deepak1095&label=Profile%20views&color=0e75b6&style=flat" alt="Deepak Dhankhar" /> </p>
-
-
-
