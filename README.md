@@ -46,10 +46,14 @@
 <p align="left">
       <a href="https://www.linkedin.com/in/deepak-dhankhar-1884b8244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/deepak-dhankhar-1884b8244/" height="30" width="40" /></a>
  </p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak1095&theme=react" alt="Deepak Dhankhar" height="250px" width="47%" hide_border=true theme=react hide_border=true bg_color=0D1117/>
-    <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Deepak1095&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+   <img width="100%" height="200px" id="github-streak-stats"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak1095" alt="Deepak Dhankhar" />
+   <img width="100%" height="200px" id="github-stats-card"
+            src="https://github-readme-stats.vercel.app/api?username=Deepak1095" alt="Deepak Dhankhar" />
 
 <div>
+
 <!-- git stats -->
-<p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Deepak1095&hide_border=true&theme=react&hide_border=true&bg_color=0D1117" height="255px" width="70%"  /></p>
+   <img width="100%" height="200px" id="github-top-langs"
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepak1095" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Deepak1095&label=Profile%20views&color=0e75b6&style=flat" alt="Deepak Dhankhar" /> </p>
