@@ -14,7 +14,7 @@
 
 - 👨 Open for your suggestions
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1arPllevTAd65ylIDQccpJrwS0GY3n6mc/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DfOFeURD7CgoBOgMP3l2uLD19OYEqL3Z/view?usp=sharing)
 </br>
 
 # 🥇 Technical Skills:
