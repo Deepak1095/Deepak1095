@@ -6,15 +6,22 @@
  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Deepak Dhankhar
    </h1>
 
-- 🌱 I’m currently learning **Full Stack Web Developer**
+ <img align="right" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="50%"  />
+ 
+  💫 About Me:
+ 
+- 🔭 I’m completed the **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://deepak1095.github.io/)
+- 🌱 I’m currently learning **Generative AI**
 
-- 💬 Ask me about **  React, MongoDB, Express, Node, Chakra-UI, JavaScript, HTML, CSS   **
+- 🌐 Have a look at my <a href="https://deepak1095.github.io/" target="_blank">Portfolio</a>
 
-- 👨 Open for your suggestions
+- 📄 Download my <a href="https://drive.google.com/file/d/1DfOFeURD7CgoBOgMP3l2uLD19OYEqL3Z/view?usp=sharing" target="_target">Resume</a>
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DfOFeURD7CgoBOgMP3l2uLD19OYEqL3Z/view?usp=sharing)
+- 💬 Open for your suggestions
+
+
+
 </br>
 
 # 🥇 Technical Skills:
@@ -39,21 +46,26 @@
 <img src="https://img.shields.io/badge/Mongoose-FB1911.svg?style=for-the-badge&logoColor=white" alt="mongoose"/>
 </div>
 
-<div>
 
 ## 🌐 Socials:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
       <a href="https://www.linkedin.com/in/deepak-dhankhar-1884b8244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/deepak-dhankhar-1884b8244/" height="30" width="40" /></a>
  </p>
-   <img width="100%" height="200px" id="github-streak-stats"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak1095" alt="Deepak Dhankhar" />
-   <img width="100%" height="200px" id="github-stats-card"
-            src="https://github-readme-stats.vercel.app/api?username=Deepak1095" alt="Deepak Dhankhar" />
 
-<div>
 
 <!-- git stats -->
-   <img width="100%" height="200px" id="github-top-langs"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepak1095" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Deepak1095&label=Profile%20views&color=0e75b6&style=flat" alt="Deepak Dhankhar" /> </p>
+ <div>
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deepak1095&theme=react" width="46%" />
+  <br/>
+  <br/>
+    <br/>
+  <br/>
+<img align="right" src="https://streak-stats.demolab.com/?user=Deepak1095&_border=true&theme=dark&hide_border=true&theme=react" width="46%" />
+</div>
+<br/>
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div>
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deepak1095&theme=react" width="45%" />
+</div>
