@@ -14,10 +14,12 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 🌐 Have a look at my <a href="https://deepak1095.github.io/" target="_blank">Portfolio</a>
+- 🌐 Check out my professional journey on  <a href="https://www.linkedin.com/in/deepak-dhankhar-1884b8244/" target="_blank">LinkedIn</a>. 🚀
 
-- 📄 Download my <a href="https://drive.google.com/file/d/1DfOFeURD7CgoBOgMP3l2uLD19OYEqL3Z/view?usp=sharing" target="_target">Resume</a>
+- 🌐 Explore my creative side through my dazzling <a href="https://deepak1095.github.io/" target="_blank">Portfolio</a>. 🎨
 
+- 📄 View my power-packed <a href="https://drive.google.com/file/d/1DfOFeURD7CgoBOgMP3l2uLD19OYEqL3Z/view?usp=sharing" target="_target">Resume</a>
+ to get the full picture of my qualifications! 💼 
 - 💬 Open for your suggestions
 
 
